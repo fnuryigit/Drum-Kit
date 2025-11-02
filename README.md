@@ -17,4 +17,4 @@ Hem klavyenle hem de ekrandaki butonlarla kendi ritmini oluşturabilirsin! ⚡
 
 ## 🌐 Canlı Demo
 
-🔗 Drum Kit Canlı Görünüm
+🔗 https://fnuryigit.github.io/Drum-Kit/
